@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I Am Umar Farouk Ilyas
 ===================================================================================================================================
 
-FrontEnd Developer
+Frontend Developer
 -------------
 
-I am a developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
+I am a Frontend developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [umarfaroukilyas.com](http://favicon-gen-proj.herokuapp.com)
