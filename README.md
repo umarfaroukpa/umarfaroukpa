@@ -7,9 +7,9 @@ Frontend Developer
 I am a Frontend developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [umarfaroukilyas.vercel.app](http://favicon-gen-proj.herokuapp.com)
+* 🖥️  See my portfolio at [umarfaroukilyas.vercel.app]
 * ✉️  You can contact me at [yasmarfaq51@gmail.com](mailto:yasmarfaq51@gmail.com)
-* 🧠  I'm learning PHP, LARAVEL
+* 🧠  I'm learning New Technologies every day
 * 🤝  I'm open to collaborating on Team projects, Solo projects
 * ⚡  I have a reasonable amount of understanding of a web standard and best practices
 
