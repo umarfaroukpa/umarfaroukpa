@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 -------------
 
-I am a Frontend developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
+I am a FullStack developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [umarfaroukilyas.vercel.app](https://umarfaroukilyas.vercel.app)
