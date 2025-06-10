@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I Am Umar Farouk Ilyas
 ===================================================================================================================================
 
-Frontend Developer
+FullStack Developer Mern
 -------------
 
 I am a FullStack developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
