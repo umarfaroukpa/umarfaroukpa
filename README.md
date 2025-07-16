@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer Mern
 -------------
 
-I am a FullStack developer with ability to develop statics and dynamic website that are both functional and aesthetically pleasing.
+🚀 Full Stack Developer | Building Functional & Aesthetic Web Solutions 
+
+Passionate about developing responsive static and dynamic websites that are both user-friendly and visually appealing. 
+Focused on clean code, performance, and great user experiences.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [umarfaroukilyas.vercel.app](https://umarfaroukilyas.vercel.app)
