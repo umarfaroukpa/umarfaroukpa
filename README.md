@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I Am Umar Farouk Ilyas
 ===================================================================================================================================
 
-FullStack Developer 
+Software Developer 
 -------------
 
 🚀Software Developer | Building Functional & Aesthetic Web Solutions 
