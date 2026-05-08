@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I Am Umar Farouk Ilyas
 ===================================================================================================================================
 
-FullStack Developer Mern
+FullStack Developer 
 -------------
 
-🚀 Full Stack Developer | Building Functional & Aesthetic Web Solutions 
+🚀Software Developer | Building Functional & Aesthetic Web Solutions 
 
 Passionate about developing responsive static and dynamic websites that are both user-friendly and visually appealing. 
 Focused on clean code, performance, and great user experiences.
 
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [umarfaroukilyas.vercel.app](https://umarfaroukilyas.vercel.app)
 * ✉️  You can contact me at [yasmarfaq51@gmail.com](mailto:yasmarfaq51@gmail.com)
 * 🧠  I'm learning New Technologies every day
